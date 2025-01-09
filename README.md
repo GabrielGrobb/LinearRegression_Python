@@ -14,7 +14,7 @@ When divulging into the description of these columns, Narayan (2023) indicated t
 lastly, the 'Sample Question Papers Practiced' column is used to indicate the amount of practice each student recieved through sample question papers. 
 
 The target column, 'Performance Index' is used to gauge the performance of each individual student, this column makes use of a specified range, it is from ten to one-hundred, where the lower the index value, the worse their performance although, 
-the greater the value, the better the students performance. 
+the greater the value, the better the students performance (Narayan, 2023). 
 
 # Python Application Steps. 
 The following list will serve as a breakdown for the flow of the application:
